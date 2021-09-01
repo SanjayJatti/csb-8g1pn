@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://sanjayjatti.github.io/csb-8g1pn/static/css/main.d00611c3.chunk.css",
+    "main.js": "https://sanjayjatti.github.io/csb-8g1pn/static/js/main.0c51812e.chunk.js",
+    "main.js.map": "https://sanjayjatti.github.io/csb-8g1pn/static/js/main.0c51812e.chunk.js.map",
+    "runtime-main.js": "https://sanjayjatti.github.io/csb-8g1pn/static/js/runtime-main.05d9d631.js",
+    "runtime-main.js.map": "https://sanjayjatti.github.io/csb-8g1pn/static/js/runtime-main.05d9d631.js.map",
+    "static/js/2.3dc7f149.chunk.js": "https://sanjayjatti.github.io/csb-8g1pn/static/js/2.3dc7f149.chunk.js",
+    "static/js/2.3dc7f149.chunk.js.map": "https://sanjayjatti.github.io/csb-8g1pn/static/js/2.3dc7f149.chunk.js.map",
+    "index.html": "https://sanjayjatti.github.io/csb-8g1pn/index.html",
+    "precache-manifest.4b9becbf0540a0aa952aef9169cf6d1c.js": "https://sanjayjatti.github.io/csb-8g1pn/precache-manifest.4b9becbf0540a0aa952aef9169cf6d1c.js",
+    "service-worker.js": "https://sanjayjatti.github.io/csb-8g1pn/service-worker.js",
+    "static/css/main.d00611c3.chunk.css.map": "https://sanjayjatti.github.io/csb-8g1pn/static/css/main.d00611c3.chunk.css.map",
+    "static/js/2.3dc7f149.chunk.js.LICENSE.txt": "https://sanjayjatti.github.io/csb-8g1pn/static/js/2.3dc7f149.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05d9d631.js",
+    "static/js/2.3dc7f149.chunk.js",
+    "static/css/main.d00611c3.chunk.css",
+    "static/js/main.0c51812e.chunk.js"
+  ]
+}
